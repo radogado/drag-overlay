@@ -1,0 +1,1 @@
+.drag-overlay{max-width:100%;position:relative;display:inline-flex;outline-offset:2px;overflow:hidden}.drag-overlay textarea{position:absolute;background-size:auto 100%;background-repeat:no-repeat;padding:0;inset:0;max-width:100%;max-height:100%;resize:horizontal;width:67%;height:100%;border:none;box-shadow:1px 0 0 0}.drag-overlay img{max-width:100%;height:auto}
